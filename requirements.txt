@@ -1,0 +1,29 @@
+streamlit
+pandas
+numpy
+matplotlib
+requests
+seaborn
+plotly
+pandas-profiling
+sweetviz
+scikit-learn
+category-encoders
+# catboost
+# lightgbm
+optuna
+scipy
+imbalanced-learn
+streamlit-lottie
+streamlit-option-menu
+streamlit-authenticator
+openpyxl
+pypandoc
+yamllint
+pylint
+passlib
+bcrypt
+xlsxwriter
+gitpython
+pillow
+PyYAML
