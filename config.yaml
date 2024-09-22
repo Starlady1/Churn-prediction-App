@@ -1,0 +1,18 @@
+cookie:
+  expiry_days: 0
+  key: cookie_signature_key
+  name: cookie_name
+credentials:
+  usernames:
+    guestuser:
+      email: guestuser@gmail.com
+      name: Guest User
+      password: $2b$12$4ct/7IqRd/tAjmn.ogeFZuJ33rddHWdtqcMcf90VGn6fCVi9.7hUq
+    star:
+      email: stella.fanen@azubiafrica.org
+      logged_in: false
+      name: Stella Ify
+      password: $2b$12$RfEI06dvVoB56fjTEwblyO.OBz7s3WINTybhxRhMlUUtheUZQ95T6
+preauthorized:
+  usernames:
+  - guestuser
